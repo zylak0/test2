@@ -1,6 +1,6 @@
 <?php
 witam serdecznie
 
-oikej drugi commit tak dla funu xd
+qqqq drugi commit tak dla funu xd
 
 master gets updejteddd

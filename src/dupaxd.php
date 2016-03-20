@@ -1,4 +1,6 @@
 <?php
 witam serdecznie
 
-oikej drugi commit tak dla funu xd
+lol no shit xd commit tak dla funu xd
+
+master gets updejteddd
